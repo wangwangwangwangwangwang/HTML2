@@ -1,0 +1,27 @@
+*{margin:0px;padding:0px;}
+a{text-decoration:none;}
+a img{border:0px;}
+li{
+	list-style:none;
+	border-bottom: dotted;
+	line-height: 45px;
+	text-indent: 5px;
+}
+.d1{
+	box-sizing: border-box;
+	width: 200px;
+	height: 475px;
+	border: 2px solid red;
+	border-radius: 9px;
+	margin: 0 auto;
+	padding: 5px;
+}
+img{
+	width: 35px;
+	height: 35px;
+	vertical-align: middle;
+}
+li:last-child{
+	border-bottom: none;
+}
+
